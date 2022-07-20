@@ -1,0 +1,12 @@
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.Menu.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToe\obj\Debug\TicTacToe.Online.resources

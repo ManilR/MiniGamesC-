@@ -1,0 +1,12 @@
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\bin\Debug\TicTacToe.exe.config
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\bin\Debug\TicTacToe.exe
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\bin\Debug\TicTacToe.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToeULTIMATE.csprojAssemblyReference.cache
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToe.Form1.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToe.Menu.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToe.Online.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToeULTIMATE.csproj.GenerateResource.cache
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToeULTIMATE.csproj.CoreCompileInputs.cache
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToe.exe
+C:\Users\0101606S\source\repos\ProjetsCs\TicTacToeULTIMATE\obj\Debug\TicTacToe.pdb
