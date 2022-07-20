@@ -1,0 +1,10 @@
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\bin\Debug\ColorBlocks.exe.config
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\bin\Debug\ColorBlocks.exe
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\bin\Debug\ColorBlocks.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.csprojAssemblyReference.cache
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.Form1.resources
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.Properties.Resources.resources
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.csproj.GenerateResource.cache
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.csproj.CoreCompileInputs.cache
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.exe
+C:\Users\0101606S\source\repos\ProjetsCs\ColorBlocks\obj\Debug\ColorBlocks.pdb
