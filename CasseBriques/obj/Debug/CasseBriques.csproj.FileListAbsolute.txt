@@ -1,0 +1,11 @@
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\bin\Debug\CasseBriques.exe.config
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\bin\Debug\CasseBriques.exe
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\bin\Debug\CasseBriques.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.csprojAssemblyReference.cache
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.Form1.resources
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.Properties.Resources.resources
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.csproj.GenerateResource.cache
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.csproj.CoreCompileInputs.cache
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.exe
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\CasseBriques\obj\Debug\CasseBriques.Menu.resources
