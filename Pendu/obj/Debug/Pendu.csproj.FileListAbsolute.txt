@@ -1,0 +1,14 @@
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\bin\Debug\Pendu.exe.config
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\bin\Debug\Pendu.exe
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\bin\Debug\Pendu.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.csprojAssemblyReference.cache
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.Form1.resources
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.Properties.Resources.resources
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.csproj.GenerateResource.cache
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.csproj.CoreCompileInputs.cache
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.exe
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.pdb
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.Menu.resources
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\0101606S\source\repos\ProjetsCs\Pendu\obj\Debug\Pendu.csproj.CopyComplete
